@@ -1,2 +1,2 @@
 --Do some init operation.
---CREATE DATABASE "your_database";
+CREATE DATABASE "your_database";
